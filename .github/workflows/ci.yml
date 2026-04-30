@@ -32,6 +32,6 @@ jobs:
           echo test, and deploy your project.
     test:
       runs-on: ubuntu-latest
-      steps:
-        - name: Testing
-          run: echo "testing"
+         steps:
+           - name: Testing
+             run: echo "testing"
